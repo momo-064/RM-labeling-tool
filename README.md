@@ -1,8 +1,8 @@
 # [Play now!](https://spphire.github.io/RM-labeling-tool/)
 
-# click "Play now!" link above, you can quickly get vast datasets of Energy Mechanism and Armor
+## click "Play now!" link above, you can quickly get vast datasets of Energy Mechanism and Armor
 
-# 一些有趣的小工具Tool/pycontroller,批量生产数据集的过程中随即替换你提供的背景图片，详见[wiki](https://github.com/Spphire/RM-labeling-tool/wiki/PyController)
+## 一些有趣的小工具./Tool/pycontroller,批量生产数据集的过程中随机替换你提供的背景图片来达到数据增强的效果，详见[wiki](https://github.com/Spphire/RM-labeling-tool/wiki/PyController)
 
 # :warning: 通知 2023/3/29 **官方更改未激活扇叶灯效，现已修改
 
